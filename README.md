@@ -9,6 +9,7 @@
 - [LCD TFT 2.4" Resistive Touch](https://www.kuriosity.sg/lcd-tft-2-4-resistive-touch/)
 - [Clock Module RTC DS3231](https://www.kuriosity.sg/clock-module-rtc-ds3231/)
 - [Active Buzzer Module](https://www.kuriosity.sg/active-buzzer-module-oem/)
+- [Button with Cap Module Red](https://www.kuriosity.sg/button-with-cap-module-yellow/)
 
 ## Tutorial
 - [Arduino Tutorial: Floorboard Smart Light System](https://www.kuriosity.sg/blog/arduino-tutorial-floorboard-smart-light-system)
