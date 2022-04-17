@@ -1,5 +1,5 @@
 # ESP32_Doorbell
-...
+Build a smart Doorbell system using 2 ESP32 development boards, connected with the ESP-Now protocol.
 
 ## Hardware Required
 - [WiFi Bluetooth Module ESP32-WROOM-32D DevKitC](https://www.kuriosity.sg/wifi-bluetooth-module-esp32-wroom-32d-devkitc/)
