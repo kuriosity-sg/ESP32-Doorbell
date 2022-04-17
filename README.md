@@ -12,4 +12,4 @@ Build a smart Doorbell system using 2 ESP32 development boards, connected with t
 - [Button with Cap Module](https://www.kuriosity.sg/button-with-cap-module-yellow/)
 
 ## Tutorial
-- [Arduino Tutorial: Floorboard Smart Light System](https://www.kuriosity.sg/blog/arduino-tutorial-floorboard-smart-light-system)
+- [ESP32 Tutorial: Wireless Doorbell Logger](https://www.kuriosity.sg/blog/tutorials/esp32-tutorial-wireless-doorbell-logger)
