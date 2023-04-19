@@ -12,4 +12,4 @@ Build a smart Doorbell system using 2 ESP32 development boards, connected with t
 - Button with Cap Module
 
 ## Tutorial
-- [ESP32 Tutorial: Wireless Doorbell Logger](https://www.kuriosity.sg/blog/tutorials/esp32-tutorial-wireless-doorbell-logger)
+- [ESP32 Tutorial: Wireless Doorbell Logger](https://www.kuriosity.sg/pages/esp32-tutorial-wireless-doorbell-logger)
